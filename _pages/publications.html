@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page        # 使用 'page' 布局
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -11,21 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- 使用 markdownify 过滤器渲染 markdown 内容 -->
+<div class="publications-content">
+  {% capture publications_markdown %}
+  # My Publications
 
-# My Publications
+  Here is a list of my publications:
 
-Here is a list of my publications:
+  ## Paper 1
+  - **Title**: Paper Title 1
+  - **Published**: 2023
+  - **Link**: [Link to Paper](https://example.com)
 
-## Paper 1
-- **Title**: Paper Title 1
-- **Published**: 2023
-- **Link**: [Link to Paper](https://example.com)
+  ## Paper 2
+  - **Title**: Paper Title 2
+  - **Published**: 2022
+  - **Link**: [Link to Paper](https://example.com)
+  {% endcapture %}
 
-## Paper 2
-- **Title**: Paper Title 2
-- **Published**: 2022
-- **Link**: [Link to Paper](https://example.com)
-
-
-
+  <!-- 将捕获的 markdown 内容转换为 HTML -->
+  {{ publications_markdown | markdownify }}
+</div>
