@@ -15,7 +15,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## News
 
-<div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc;">
+<div style="width: 100%; height: 200px; overflow: auto; border: 1px solid #ccc;">
   这里是一些内容，超过这个区域的内容会出现滚动条。
   <br>例如：
   <br>1. 第一行内容
