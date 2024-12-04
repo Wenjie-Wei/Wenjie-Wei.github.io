@@ -16,14 +16,17 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 ## News
 
 <div style="width: 100%; height: 200px; overflow: auto;">
-  这里是一些内容，超过这个区域的内容会出现滚动条。
-  <br>例如：
+  Waiting for updates.
   <br>☝️
   <br>✌️
   <br>👌
   <br>4️⃣
   <br>🖐️
   <br>🤙
+  <br>7️⃣
+  <br>🎱
+  <br>9️⃣
+  <br>🤲
 </div>
 
 ## Selected Publications
