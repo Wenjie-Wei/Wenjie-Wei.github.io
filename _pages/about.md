@@ -14,7 +14,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
 ## Publications
-- Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation. ICCV 2023. [<font color="#BF09B4">paper</front>](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf)<br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
+- Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation. ICCV 2023. <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="color:#BF09B4;">paper</a><br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
 
 ## Academic Services
