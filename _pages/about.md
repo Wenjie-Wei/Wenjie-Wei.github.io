@@ -13,6 +13,18 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Neuromorphic Computing: Spiking Neural Networks, Brain-inspired Neural Architecture Design, etc.
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
+## News
+
+<div style="width: 300px; height: 200px; overflow: auto; border: 1px solid #ccc;">
+  这里是一些内容，超过这个区域的内容会出现滚动条。
+  <br>例如：
+  <br>1. 第一行内容
+  <br>2. 第二行内容
+  <br>3. 第三行内容
+  <br>4. 第四行内容
+  <br>5. 第五行内容
+</div>
+
 ## Selected Publications
 - [Q-SNNs: Quantized Spiking Neural Networks.](https://arxiv.org/pdf/2406.13672) ACM MM 2024.<br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
 - [Event-driven learning for spiking neural networks.](https://arxiv.org/pdf/2403.00270) Under Review.<br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
