@@ -13,7 +13,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Neuromorphic Computing: Spiking Neural Networks, Brain-inspired Neural Architecture Design, etc.
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
-## News
+## News 😄/😩
 
 <div style="width: 100%; height: 200px; overflow: auto;">
   Waiting for updates.
