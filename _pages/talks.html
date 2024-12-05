@@ -5,12 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<section>
+        <h2>受邀演讲</h2>
+        <div class="section-content">
+            <p>以下是我作为受邀演讲人参加的活动：</p>
+            <ul>
+                <li>演讲 1: <a href="https://link-to-talk1.com" target="_blank">Deep Learning for Computer Vision at CVPR 2024</a></li>
+                <li>演讲 2: <a href="https://link-to-talk2.com" target="_blank">AI in Healthcare at NeurIPS 2024</a></li>
+                <li>演讲 3: <a href="https://link-to-talk3.com" target="_blank">Spiking Neural Networks at ICCV 2023</a></li>
+                <!-- 添加更多受邀演讲信息 -->
+            </ul>
+        </div>
+    </section>
