@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Biography
-Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️ a Ph.D. in <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">the University of Electronic Science and Technology of China</a>🏫, under the supervision of Prof. <a href="https://sites.google.com/view/malu-zhang/home">Malu Zhang</a>🧑‍🏫. Prior to this, I obtained my Bachelor’s degree👩‍🎓 from <a href="http://international.zzu.edu.cn/">Zhengzhou University</a>🏫 in 2021. My research interests broadly include 🧠neuromorphic computing💻 and 🤏efficient deep learning🤖.
+Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️ a Ph.D. in <a href="https://en.uestc.edu.cn/" style="text-decoration: none; color: #007bff;">the University of Electronic Science and Technology of China</a>🏫, under the supervision of Prof. <a href="https://sites.google.com/view/malu-zhang/home" style="text-decoration: none; color: #007bff;">Malu Zhang</a>🧑‍🏫. Prior to this, I obtained my Bachelor’s degree👩‍🎓 from <a href="http://international.zzu.edu.cn/" style="text-decoration: none; color: #007bff;">Zhengzhou University</a>🏫 in 2021. My research interests broadly include 🧠neuromorphic computing💻 and 🤏efficient deep learning🤖.
 
 ## Research Interests 🥰
 - 📔 Neuromorphic Computing: Spiking Neural Networks, Brain-inspired Neural Architecture Design, etc.
@@ -20,11 +20,11 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 </div>
 
 ## Selected Publications 📑
-- <a href="https://arxiv.org/pdf/2406.13672">Q-SNNs: Quantized Spiking Neural Networks.</a> ACM MM 2024.
-  <br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
+- <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> ACM MM 2024.
+  <br><font color="#BF09B4" style="text-decoration: none; color: #007bff;">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
 - <a href="https://arxiv.org/pdf/2403.00270">Event-driven learning for spiking neural networks.</a> Under Review.
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
-- <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> ICCV 2023.
+- <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="text-decoration: none; color: #007bff;">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> ICCV 2023.
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
 
@@ -42,9 +42,3 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
-<style>
-  a{
-    text-decoration: none;
-    color: #2c3e50;
-  }
-  </style>
