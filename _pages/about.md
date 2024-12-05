@@ -42,4 +42,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
-
+<style>
+  .no-underline {
+  text-decoration: none;
+}
+  </style>
