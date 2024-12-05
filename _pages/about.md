@@ -42,3 +42,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
+
+a {
+text-decoration: none;
+color: #007bff;  /* 可选，设置超链接颜色 */
+}
