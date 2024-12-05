@@ -15,7 +15,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## News 😄/😩
 
-<div style="width: 100%; height: 200px; overflow: auto;">
+<div style="width: 100%; height: 150px; overflow: auto;">
   <br>2024.12.5: 🎉🎉Created my own personal homepage.
 </div>
 
