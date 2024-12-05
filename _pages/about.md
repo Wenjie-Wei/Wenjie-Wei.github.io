@@ -45,6 +45,6 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 <style>
   a{
     text-decoration: none;
-    color: # 
+    color: #2c3e50;
   }
   </style>
