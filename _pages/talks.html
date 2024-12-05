@@ -25,5 +25,74 @@ author_profile: true
         <h2>Invited Talk</h2>
         <div class="section-content">
                 <li><a href="https://www.cis-ram.org/2024/" target="_blank">11th IEEE International Conference on Cybernetics and Intelligent Systems & Robotics, Automation and Mechatronics (CIS-RAM) Young Scholars Workshop</a></li>
+                <p>
+                <a href="/images/certificate.png" id="certificateLink">[Certificate]</a> | 
+                <a href="/images/CIS-RAM.png" id="posterLink">[Poster]</a>
+            </p>
         </div>
 </section>
+<!-- Certificate Modal -->
+    <div id="certificateModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeCertificate">&times;</span>
+            <img src="certificate-image.jpg" alt="Certificate Image">
+        </div>
+    </div>
+
+    <!-- Poster Modal -->
+    <div id="posterModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closePoster">&times;</span>
+            <img src="poster-image.jpg" alt="Poster Image">
+        </div>
+    </div>
+<script>
+        // 获取 modal 元素
+        var certificateModal = document.getElementById("certificateModal");
+        var posterModal = document.getElementById("posterModal");
+
+        // 获取链接元素
+        var certificateLink = document.getElementById("certificateLink");
+        var posterLink = document.getElementById("posterLink");
+
+        // 获取关闭按钮
+        var closeCertificate = document.getElementById("closeCertificate");
+        var closePoster = document.getElementById("closePoster");
+
+        // 点击证书链接时显示证书 modal
+        certificateLink.onclick = function(event) {
+            event.preventDefault(); // 防止页面跳转
+            certificateModal.style.display = "block";
+        }
+
+        // 点击海报链接时显示海报 modal
+        posterLink.onclick = function(event) {
+            event.preventDefault(); // 防止页面跳转
+            posterModal.style.display = "block";
+        }
+
+        // 点击关闭按钮时隐藏证书 modal
+        closeCertificate.onclick = function() {
+            certificateModal.style.display = "none";
+        }
+
+        // 点击关闭按钮时隐藏海报 modal
+        closePoster.onclick = function() {
+            posterModal.style.display = "none";
+        }
+
+        // 点击 modal 外部区域时也关闭 modal
+        window.onclick = function(event) {
+            if (event.target == certificateModal) {
+                certificateModal.style.display = "none";
+            } else if (event.target == posterModal) {
+                posterModal.style.display = "none";
+            }
+        }
+    </script>
+
+
+a {
+text-decoration: none;
+color: #007bff;  /* 可选，设置超链接颜色 */
+}
