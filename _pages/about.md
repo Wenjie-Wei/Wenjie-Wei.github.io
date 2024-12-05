@@ -16,17 +16,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 ## News 😄/😩
 
 <div style="width: 100%; height: 200px; overflow: auto;">
-  Waiting for updates.
-  <br>☝️
-  <br>✌️
-  <br>👌
-  <br>4️⃣
-  <br>🖐️
-  <br>🤙
-  <br>7️⃣
-  <br>🎱
-  <br>9️⃣
-  <br>🤲
+  <br>2024.12.5: 🎉🎉Created my own personal homepage.
 </div>
 
 ## Selected Publications 📑
