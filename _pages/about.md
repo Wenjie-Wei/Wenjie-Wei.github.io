@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Biography
-Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️ a Ph.D. in [the University of Electronic Science and Technology of China](https://en.uestc.edu.cn/){: .no-underline }🏫, under the supervision of Prof. [Malu Zhang](https://sites.google.com/view/malu-zhang/home){: .no-underline }🧑‍🏫. Prior to this, I obtained my Bachelor’s degree👩‍🎓 from [Zhengzhou University](http://international.zzu.edu.cn/){: .no-underline }🏫 in 2021. My research interests broadly include 🧠neuromorphic computing💻 and 🤏efficient deep learning🤖.
+Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️ a Ph.D. in <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">the University of Electronic Science and Technology of China</a>🏫, under the supervision of Prof. [Malu Zhang](https://sites.google.com/view/malu-zhang/home){: .no-underline }🧑‍🏫. Prior to this, I obtained my Bachelor’s degree👩‍🎓 from [Zhengzhou University](http://international.zzu.edu.cn/){: .no-underline }🏫 in 2021. My research interests broadly include 🧠neuromorphic computing💻 and 🤏efficient deep learning🤖.
 
 ## Research Interests 🥰
 - 📔 Neuromorphic Computing: Spiking Neural Networks, Brain-inspired Neural Architecture Design, etc.
