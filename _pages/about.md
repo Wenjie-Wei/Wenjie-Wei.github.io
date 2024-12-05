@@ -20,17 +20,17 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 </div>
 
 ## Selected Publications 📑
-- <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 0.9em;">ACM MM 2024.</span>
+- <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ACM MM 2024.</span>
   <br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
-- <a href="https://arxiv.org/pdf/2403.00270" style="text-decoration: none; color: #007bff;">Event-driven learning for spiking neural networks.</a> <span style="color: #44C089; font-size: 0.9em;">2024, Under review.</span>
+- <a href="https://arxiv.org/pdf/2403.00270" style="text-decoration: none; color: #007bff;">Event-driven learning for spiking neural networks.</a> <span style="color: #44C089; font-size: 1em;">2024, Under Review.</span>
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
-- <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="text-decoration: none; color: #007bff;">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> <span style="color: #44C089; font-size: 0.9em;">ICCV 2023.</span>
+- <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="text-decoration: none; color: #007bff;">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> <span style="color: #44C089; font-size: 1em;">ICCV 2023.</span>
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
 
 ## Academic Services 🛎️
 - Reviewer for conferences and journals, including ICLR2025, Neural Networks, IEEE TETCI, etc.
-- Invited speaker at the IEEE CIS-RAM 2024 Young Scholars Workshop on "*Event-Driven Learning for Spiking Neural Networks*". <a href="#image" style="color: #007bff; font-size: 0.9em;">Poster</a>
+- Invited speaker at the IEEE CIS-RAM 2024 Young Scholars Workshop on "*Event-Driven Learning for Spiking Neural Networks*". <a href="#image" style="color: #007bff; font-size: 1em;">Poster</a>
 <div id="image" style="display:none;">
     <img src="../images/CIS-RAM.png" alt="CIS Image" />
 </div>
