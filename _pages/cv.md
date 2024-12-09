@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also access my complete resume [here](/files/CV.pdf).
+You can also access my complete resume <a href="/files/CV.pdf" style="text-decoration: none; color: #007bff;">here</a>.
 
 Education
 ======
