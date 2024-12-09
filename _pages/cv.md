@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also access my complete resume [here](/files/CV.pdf).
+
 Education
 ======
 * 🎓 2022-Present: Ph.D. Candidate, School of Computer Science and Engineering, University of Electronic Science and Technology of China
