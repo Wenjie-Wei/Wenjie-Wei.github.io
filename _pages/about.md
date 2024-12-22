@@ -16,8 +16,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 ## News 😄/😩
 
 <div style="width: 100%; height: 150px; overflow: auto;">
-  <br>2024.12: 🎉🎉One paper titled is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper titled is accepted by AAAI 2025.
+  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
+  <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
   <br>2024.12: 🎉🎉Created my own personal homepage.
 </div>
 
