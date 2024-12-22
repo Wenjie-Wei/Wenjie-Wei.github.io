@@ -16,8 +16,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 ## News 😄/😩
 
 <div style="width: 100%; height: 150px; overflow: auto;">
-  <br>2024.12: 🎉🎉One paper titled 'Memory-Free and Parallel Computation for Quantized Spiking Neural Networks' is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper titled 'Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism' is accepted by AAAI 2025.
+  <br>2024.12: 🎉🎉One paper titled is accepted by ICASSP 2025.
+  <br>2024.12: 🎉🎉One paper titled is accepted by AAAI 2025.
   <br>2024.12: 🎉🎉Created my own personal homepage.
 </div>
 
@@ -28,6 +28,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
 - <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="text-decoration: none; color: #007bff;">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> <span style="color: #44C089; font-size: 1em;">ICCV 2023.</span>
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
+- <a style="text-decoration: none; color: #007bff;">Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.</a> <span style="color: #44C089; font-size: 1em;">AAAI 2025.</span>
+  <br>Yu Liang, <font color="#BF09B4">Wenjie Wei</font>, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang*, Yang Yang
 
 
 ## Academic Services 🛎️
