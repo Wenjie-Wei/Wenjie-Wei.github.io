@@ -9,6 +9,7 @@ redirect_from:
 <span class="invitation-message">
   💬 We sincerely invite you to subscribe to our WeChat Official Account titled "类脑智能研究进展", where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
 </span> 
+
 ## Biography
 Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️ a Ph.D. in <a href="https://en.uestc.edu.cn/" style="text-decoration: none; color: #007bff;">the University of Electronic Science and Technology of China</a>🏫, under the supervision of Prof. <a href="https://sites.google.com/view/malu-zhang/home" style="text-decoration: none; color: #007bff;">Malu Zhang</a>🧑‍🏫. Prior to this, I obtained my Bachelor’s degree👩‍🎓 from <a href="http://international.zzu.edu.cn/" style="text-decoration: none; color: #007bff;">Zhengzhou University</a>🏫 in 2021. My research interests broadly include 🧠neuromorphic computing💻 and 🤏efficient deep learning🤖.
 
