@@ -53,7 +53,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
     color: #BF09B4;
     font-size: 0.9em;
     display: block;
-    margin-bottom: 5px; /* Adjust as needed */
+    margin-bottom: 3px; /* Adjust as needed */
   }
   
   .news-container {
