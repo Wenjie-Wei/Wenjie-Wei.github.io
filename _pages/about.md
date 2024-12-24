@@ -15,7 +15,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## News 😄/😩
 <span style="color: red; font-size: 0.9em;">
-  We sincerely invite you to subscribe to our WeChat Official Account named "类脑智能研究进展", where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
+  We sincerely invite you to subscribe to our WeChat Official Account, titled **"类脑智能研究进展"**, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
 </span> 
 
 
