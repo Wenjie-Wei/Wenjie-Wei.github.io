@@ -17,13 +17,11 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 <span style="color: red; font-size: 0.9em;">
   We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 0.9em;"><I>[Click]</i></a>
 </span> 
-<!-- Screenshot Modal Structure -->
-<div id="screenshotModal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <img src="../images/vx.png" alt="Screenshot" style="width:100%;">
-  </div>
+<!-- Screenshot Image Toggle -->
+<div id="screenshot" style="display:none;">
+    <img src="../images/vx.png" alt="Screenshot" />
 </div>
+
 <div style="width: 100%; height: 150px; overflow: auto;">
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
@@ -54,59 +52,10 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         var imageDiv = document.getElementById('image');
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
+  // Toggle Screenshot Image
+    document.querySelector('a[href="#screenshot"]').addEventListener('click', function(e) {
+        e.preventDefault();
+        var screenshotDiv = document.getElementById('screenshot');
+        screenshotDiv.style.display = screenshotDiv.style.display === 'none' ? 'block' : 'none';
+    });
 </script>
-<style>
-/* Modal Background */
-.modal {
-  display: none; 
-  position: fixed; 
-  z-index: 1000; 
-  padding-top: 60px; 
-  left: 0;
-  top: 0;
-  width: 100%; 
-  height: 100%; 
-  overflow: auto; 
-  background-color: rgba(0,0,0,0.5); 
-}
-
-/* Modal Content */
-.modal-content {
-  position: relative;
-  margin: auto;
-  padding: 0;
-  width: 80%;
-  max-width: 700px;
-  animation-name: modalopen;
-  animation-duration: 0.4s;
-}
-
-/* Animation */
-@keyframes modalopen {
-  from {opacity: 0}
-  to {opacity: 1}
-}
-
-/* Close Button */
-.close {
-  position: absolute;
-  top: 10px;
-  right: 25px;
-  color: #ffffff;
-  font-size: 35px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbbbbb;
-  text-decoration: none;
-}
-
-/* Image Styling */
-.modal-content img {
-  width: 100%;
-  height: auto;
-}
-</style>
