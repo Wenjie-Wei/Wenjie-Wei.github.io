@@ -19,10 +19,6 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 </span> 
 <div class="news-container">
   2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
-  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
   <br>2024.12: 🎉🎉Created my own personal homepage.
 </div>
@@ -57,7 +53,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
     color: #BF09B4;
     font-size: 0.9em;
     display: block;
-    margin-bottom: 2px; /* Adjust as needed */
+    margin-bottom: 1px; /* Adjust as needed */
   }
   
   .news-container {
