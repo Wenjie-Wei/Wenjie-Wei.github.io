@@ -14,12 +14,9 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
 ## News 😄/😩
-<span style="color: red; font-size: 0.9em;">
-  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 0.9em;"><I>[Screenshot]</i></a>
+<span style="color: red; font-size: 1em;">
+  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 1em;"><I>[Screenshot]</i></a>
 </span> 
-<div id="screen" style="display:none;">
-    <img src="../images/vx.png"/>
-</div>
 <div style="width: 100%; height: 150px; overflow: auto;">
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
@@ -51,11 +48,3 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
-<script>
-    document.querySelector('a[href="#screen"]').addEventListener('click', function(e) {
-        e.preventDefault();
-        var imageDiv = document.getElementById('image');
-        imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
-    });
-</script>
-
