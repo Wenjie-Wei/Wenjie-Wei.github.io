@@ -15,12 +15,9 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## News 😄/😩
 <span style="color: red; font-size: 0.9em;">
-  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 0.9em;"><I>[Click]</i></a>
+  We sincerely invite you to subscribe to our WeChat Official Account named "类脑智能研究进展", where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
 </span> 
-<!-- Screenshot Image Toggle -->
-<div id="screenshot" style="display:none;">
-    <img src="../images/vx.png" alt="Screenshot" />
-</div>
+
 
 <div style="width: 100%; height: 150px; overflow: auto;">
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
@@ -51,11 +48,5 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         e.preventDefault();
         var imageDiv = document.getElementById('image');
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
-    });
-  // Toggle Screenshot Image
-    document.querySelector('a[href="#screenshot"]').addEventListener('click', function(e) {
-        e.preventDefault();
-        var screenshotDiv = document.getElementById('screenshot');
-        screenshotDiv.style.display = screenshotDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
