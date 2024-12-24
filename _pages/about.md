@@ -15,14 +15,10 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## News 😄/😩
 <span style="color: red; font-size: 0.9em;">
-  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
-</span> [View Image](#openModal)
-<!-- Modal Structure -->
-<div id="openModal" class="modal">
-  <div class="modal-content">
-    <span class="close">&times;</span>
-    <img src="images/vx.png" alt="Descriptive Alt Text" style="width:100%;">
-  </div>
+  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 1em;"><I>[Screenshot]</i></a>
+</span> 
+<div id="screen" style="display:none;">
+    <img src="../images/vx.png"/>
 </div>
 
 <div style="width: 100%; height: 150px; overflow: auto;">
@@ -56,84 +52,11 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
-<!-- Styles for Modal -->
-<style>
-/* Modal Background */
-.modal {
-  display: none; 
-  position: fixed; 
-  z-index: 1000; 
-  padding-top: 60px; 
-  left: 0;
-  top: 0;
-  width: 100%; 
-  height: 100%; 
-  overflow: auto; 
-  background-color: rgba(0,0,0,0.5); 
-}
-
-/* Modal Content */
-.modal-content {
-  position: relative;
-  margin: auto;
-  padding: 0;
-  width: 80%;
-  max-width: 700px;
-  animation-name: modalopen;
-  animation-duration: 0.4s;
-}
-
-/* Animation */
-@keyframes modalopen {
-  from {opacity: 0}
-  to {opacity: 1}
-}
-
-/* Close Button */
-.close {
-  position: absolute;
-  top: 10px;
-  right: 25px;
-  color: #ffffff;
-  font-size: 35px;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.close:hover,
-.close:focus {
-  color: #bbbbbb;
-  text-decoration: none;
-}
-</style>
-<!-- Script for Modal Functionality -->
 <script>
-document.addEventListener("DOMContentLoaded", function() {
-  // Get modal element
-  var modal = document.getElementById("openModal");
-
-  // Get link that opens the modal
-  var link = document.querySelector('a[href="#openModal"]');
-
-  // Get the <span> element that closes the modal
-  var span = document.getElementsByClassName("close")[0];
-
-  // When the user clicks the link, open the modal 
-  link.onclick = function(event) {
-    event.preventDefault();
-    modal.style.display = "block";
-  }
-
-  // When the user clicks on <span> (x), close the modal
-  span.onclick = function() {
-    modal.style.display = "none";
-  }
-
-  // When the user clicks anywhere outside of the modal content, close it
-  window.onclick = function(event) {
-    if (event.target == modal) {
-      modal.style.display = "none";
-    }
-  }
-});
+    document.querySelector('a[href="#screen"]').addEventListener('click', function(e) {
+        e.preventDefault();
+        var imageDiv = document.getElementById('image');
+        imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
+    });
 </script>
+
