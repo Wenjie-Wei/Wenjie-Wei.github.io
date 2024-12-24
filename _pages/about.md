@@ -55,3 +55,58 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
+<style>
+/* Modal Background */
+.modal {
+  display: none; 
+  position: fixed; 
+  z-index: 1000; 
+  padding-top: 60px; 
+  left: 0;
+  top: 0;
+  width: 100%; 
+  height: 100%; 
+  overflow: auto; 
+  background-color: rgba(0,0,0,0.5); 
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  width: 80%;
+  max-width: 700px;
+  animation-name: modalopen;
+  animation-duration: 0.4s;
+}
+
+/* Animation */
+@keyframes modalopen {
+  from {opacity: 0}
+  to {opacity: 1}
+}
+
+/* Close Button */
+.close {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbbbbb;
+  text-decoration: none;
+}
+
+/* Image Styling */
+.modal-content img {
+  width: 100%;
+  height: auto;
+}
+</style>
