@@ -17,6 +17,13 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 <span style="color: red; font-size: 1em;">
   We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 1em;"><I>[Screenshot]</i></a>
 </span> 
+<!-- Screenshot Modal Structure -->
+<div id="screenshotModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <img src="../images/vx.png" alt="Screenshot" style="width:100%;">
+  </div>
+</div>
 <div style="width: 100%; height: 150px; overflow: auto;">
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
