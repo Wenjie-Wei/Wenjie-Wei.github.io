@@ -14,10 +14,10 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
 ## News 😄/😩
-<span style="color: #BF09B4; font-size: 0.8em;">
+<span class="invitation-message">
   💬 We sincerely invite you to subscribe to our WeChat Official Account titled "类脑智能研究进展", where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
 </span> 
-<div style="width: 100%; height: 150px; overflow: auto;">
+<div class="news-container">
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by AAAI 2025.
   <br>2024.12: 🎉🎉Created my own personal homepage.
@@ -48,3 +48,18 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
         imageDiv.style.display = imageDiv.style.display === 'none' ? 'block' : 'none';
     });
 </script>
+<style>
+  .invitation-message {
+    color: #BF09B4;
+    font-size: 0.9em;
+    display: block;
+    margin-bottom: 5px; /* Adjust as needed */
+  }
+  
+  .news-container {
+    width: 100%;
+    height: 150px;
+    overflow: auto;
+    margin-top: 0;
+  }
+  </style>
