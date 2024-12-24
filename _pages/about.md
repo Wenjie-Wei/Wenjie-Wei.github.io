@@ -14,8 +14,8 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - 📔 Efficient Deep Learning: Network Binarization, Quantization, Pruning, etc.
 
 ## News 😄/😩
-<span style="color: red; font-size: 1em;">
-  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 1em;"><I>[Screenshot]</i></a>
+<span style="color: red; font-size: 0.9em;">
+  We sincerely invite you to subscribe to our WeChat Official Account, where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence. <a href="#screen" style="color: #007bff; font-size: 0.9em;"><I>[Click]</i></a>
 </span> 
 <!-- Screenshot Modal Structure -->
 <div id="screenshotModal" class="modal">
