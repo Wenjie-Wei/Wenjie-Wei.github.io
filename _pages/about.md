@@ -18,7 +18,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
   💬 We sincerely invite you to subscribe to our WeChat Official Account titled "类脑智能研究进展", where we continuously share the latest research findings and technological developments in the field of brain-inspired intelligence.
 </span> 
 <div class="news-container">
-  <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
+  2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
   <br>2024.12: 🎉🎉One paper is accepted by ICASSP 2025.
