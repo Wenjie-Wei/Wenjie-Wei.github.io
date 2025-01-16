@@ -35,7 +35,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 
 ## Academic Services 🛎️
-- Reviewer for conferences and journals, including ICML 2025, ICLR 2025, Neural Networks, IEEE TETCI, etc.
+- Reviewer for conferences and journals, including ICML 2025, ICLR 2025, IJCAI 2025, Neural Networks, IEEE TETCI, etc.
 - Invited speaker at the IEEE CIS-RAM 2024 Young Scholars Workshop on "*Event-Driven Learning for Spiking Neural Networks*". <a href="#image" style="color: #007bff; font-size: 1em;"><I>[Poster]</i></a>
 <div id="image" style="display:none;">
     <img src="../images/CIS-RAM.png" alt="CIS Image" />
