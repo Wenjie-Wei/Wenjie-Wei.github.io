@@ -26,9 +26,9 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## Selected Publications 📑
 - <a href="https://openreview.net/forum?id=MiPyle6Jef" style="text-decoration: none; color: #007bff;">QP-SNN: Quantized and Pruned Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ICLR 2025.</span>
-- <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ACM MM 2024.</span>
 <br><font color="#BF09B4">Wenjie Wei</font>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Malu Zhang*, Yang Yang
-  <br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
+- <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ACM MM 2024.</span>
+<br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
 - <a href="https://arxiv.org/pdf/2403.00270" style="text-decoration: none; color: #007bff;">Event-driven learning for spiking neural networks.</a> <span style="color: #44C089; font-size: 1em;">2024, Under Review.</span>
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
 - <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf" style="text-decoration: none; color: #007bff;">Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation.</a> <span style="color: #44C089; font-size: 1em;">ICCV 2023.</span>
