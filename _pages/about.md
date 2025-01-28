@@ -35,7 +35,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
   <br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 - <a style="text-decoration: none; color: #007bff;">Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.</a> <span style="color: #44C089; font-size: 1em;">AAAI 2025 (oral).</span>
   <br>Yu Liang, <font color="#BF09B4">Wenjie Wei</font>, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang*, Yang Yang
-- <a href="https://openreview.net/forum?id=5J9B7Sb8rO" style="text-decoration: none; color: #007bff;">Quantized Spike-driven Transformer.</a> <span style="color: #44C089; font-size: 1em;">AAAI 2025 (oral).</span>
+- <a href="https://openreview.net/forum?id=5J9B7Sb8rO" style="text-decoration: none; color: #007bff;">Quantized Spike-driven Transformer.</a> <span style="color: #44C089; font-size: 1em;">ICLR 2025.</span>
   <br>Xuerui Qiu, Jieyuan Zhang, <font color="#BF09B4">Wenjie Wei</font>, Honglin Cao, Junsheng Guo, Rui-jie Zhu, Yimeng Shan, Yang Yang, Malu Zhang*, Haizhou Li
 
 
