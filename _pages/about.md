@@ -26,7 +26,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 
 ## Selected Publications 📑
 - <a href="https://openreview.net/forum?id=MiPyle6Jef" style="text-decoration: none; color: #007bff;">QP-SNN: Quantized and Pruned Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ICLR 2025.</span>
-<br><font color="#BF09B4">Wenjie Wei</font>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Malu Zhang*, Yang Yang
+<br><font color="#BF09B4">Wenjie Wei</font>, Malu Zhang*, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang
 - <a href="https://arxiv.org/pdf/2406.13672" style="text-decoration: none; color: #007bff;">Q-SNNs: Quantized Spiking Neural Networks.</a> <span style="color: #44C089; font-size: 1em;">ACM MM 2024.</span>
 <br><font color="#BF09B4">Wenjie Wei</font>, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang*, Yang Yang
 - <a href="https://arxiv.org/pdf/2403.00270" style="text-decoration: none; color: #007bff;">Event-driven learning for spiking neural networks.</a> <span style="color: #44C089; font-size: 1em;">2024, Under Review.</span>
@@ -36,7 +36,7 @@ Hello👋! This is Wenjie Wei🙎‍♀️. I am currently pursuing🏃‍♀️
 - <a style="text-decoration: none; color: #007bff;">Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.</a> <span style="color: #44C089; font-size: 1em;">AAAI 2025 (oral).</span>
   <br>Yu Liang, <font color="#BF09B4">Wenjie Wei</font>, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang*, Yang Yang
 - <a href="https://openreview.net/forum?id=5J9B7Sb8rO" style="text-decoration: none; color: #007bff;">Quantized Spike-driven Transformer.</a> <span style="color: #44C089; font-size: 1em;">ICLR 2025.</span>
-  <br>Xuerui Qiu, Jieyuan Zhang, <font color="#BF09B4">Wenjie Wei</font>, Honglin Cao, Junsheng Guo, Rui-jie Zhu, Yimeng Shan, Yang Yang, Malu Zhang*, Haizhou Li
+  <br>Xuerui Qiu, Malu Zhang*, Jieyuan Zhang, <font color="#BF09B4">Wenjie Wei</font>, Honglin Cao, Junsheng Guo, Rui-jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li
 
 
 ## Academic Services 🛎️
