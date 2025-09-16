@@ -22,7 +22,7 @@ Hello👋! This is Wenjie Wei. I am currently a Ph.D. student (from fall 2022) i
 My research interests broadly encompass Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc. I have published more than 20 papers at the top international AI conferences/journals with a total Google Scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 💬 Academic Services
-- Journal Reviewer: Neural Networks, IEEE TETCI, IEEE TCDS, Neurocomputing, Frontiers in Neuroscience, etc.
+- Journal Reviewer: Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
 - Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
 - Invited Oral Presentation titled "Event-Driven Learning for Spiking Neural Networks", at the 11th IEEE International Conference on CIS-RAM Young Scholars Workshop.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
