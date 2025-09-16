@@ -1,4 +1,4 @@
----
+<img width="1045" height="483" alt="6d216f81-db05-4f2f-bb10-e9e81ebd9bfd" src="https://github.com/user-attachments/assets/4d617fb6-ca21-49cf-bc1c-3d91fd2ee37a" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -55,11 +55,11 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 ## Others
 
-- ![](https://img.shields.io/badge/AAAI--2025--Oral-darkblue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
+- ![](https://img.shields.io/badge/AAAI--2025--Oral-8A2BE2) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🏆 Honors and Awards
 - 2025.08: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 Team Worldwide) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
