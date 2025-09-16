@@ -55,7 +55,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 ## Others
 
-- ![](https://img.shields.io/badge/AAAI-2025-Oral-darkblue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
+- ![](https://img.shields.io/badge/AAAI--2025--Oral-darkblue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 
