@@ -55,9 +55,38 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 ## Others
 
-- ![](https://img.shields.io/badge/AAAI--2025--Oral-8A2BE2) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
+- ![](https://img.shields.io/badge/AAAI--2025--Oral-darkblue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism.
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 <br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
+
+- ![](https://img.shields.io/badge/ICML--2025-darkblue) BSO: Binary Spiking Online Optimization Algorithm.
+<br> Yu Liang, Yu Yang, **Wenjie Wei**, Ammar Belatreche, Shuai Wang, Malu Zhang, Yang Yang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=V2bw5SmpF6)
+
+- ![](https://img.shields.io/badge/IJCAI--2025-darkblue) Binary Event-Driven Spiking Transformer.
+<br> Honglin Cao†, Zijian Zhou†, **Wenjie Wei**, Ammar Belatreche, Yu Liang, Dehao Zhang, Malu Zhang, Yang Yang, Haizhou Li
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
+
+- ![](https://img.shields.io/badge/Nanophotonics--2025-darkblue) What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips.
+<br> Renjie Li†, Qi Xin†, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.05794)
+
+- ![](https://img.shields.io/badge/ICLR--2025-darkblue) Quantized Spike-driven Transformer.
+<br> Xuerui Qiu†, Malu Zhang, Jieyuan Zhang†, **Wenjie Wei**, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=5J9B7Sb8rO)
+
+- ![](https://img.shields.io/badge/CVPR--2025--Oral-darkblue) Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers.
+<br> Yichen Xiao†, Shuai Wang†, Dehao Zhang, **Wenjie Wei**, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.pdf)
+
+- ![](https://img.shields.io/badge/NeurIPS--2024-darkblue) Spike-based Neuromorphic Model for Sound Source Localization.
+<br> Dehao Zhang†, Shuai Wang†, Ammar Belatreche, **Wenjie Wei**, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ce953d71deeb33d9ffa2c879b518d273-Paper-Conference.pdf)
+
+- ![](https://img.shields.io/badge/IEEE--CIM--2025-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding.
+<br> Malu Zhang, Shuai Wang, Jibin Wu, **Wenjie Wei**, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang
+<br> [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
+
 
 
 
