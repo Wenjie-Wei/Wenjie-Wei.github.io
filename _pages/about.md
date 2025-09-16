@@ -54,7 +54,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Honors and Awards
-- *2025.08*: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 team worldwide; Prize: $2,000) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
+- *2025.08*: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 team worldwide) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
 - *2022.11*: Outstanding Student Leader, University of Electronic Science and Technology of China. [电子科技大学优秀学生干部] 
 - *2021.09*: First-Class Scholarship, University of Electronic Science and Technology of China. [电子科技大学一等奖学金]
 - *2021.06*: Outstanding Graduate, Zhengzhou University. [郑州大学优秀毕业生]
