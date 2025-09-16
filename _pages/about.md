@@ -63,5 +63,5 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
-- *2021.09 - 2022.06*, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
+- *2021.09 - 2022.06*, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 - *2017.09 - 2021.06*, B.S. in School of Information Engineering, Zhengzhou University.
