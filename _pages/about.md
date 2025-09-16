@@ -29,12 +29,13 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR (Oral, 3.3%).
-- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (Oral, 4.5%).
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML-2025.
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI-2025.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025 (Oral, 3.3%).
+- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025 (Oral, 4.5%).
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
 # 📝 Publications 
