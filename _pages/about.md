@@ -86,7 +86,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - ![](https://img.shields.io/badge/Neural--Networks-darkblue) Ternary spike-based neuromorphic signal processing system. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
 <br> Shuai Wang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, **Wenjie Wei**, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/Arxiv--yellow) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
+- ![](https://img.shields.io/badge/Arxiv--yellow) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.08703)
 <br> Yimeng Shan, Zhenbang Ren, Haodi Wu, **Wenjie Wei**, Rui-Jie Zhu, Shuai Wang, et al.
 
 
