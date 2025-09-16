@@ -77,7 +77,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - ![](https://img.shields.io/badge/NeurIPS--2024-darkblue) Spike-based Neuromorphic Model for Sound Source Localization. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ce953d71deeb33d9ffa2c879b518d273-Paper-Conference.pdf)
 <br> Dehao Zhang†, Shuai Wang†, Ammar Belatreche, **Wenjie Wei**, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/IEEE--CIM--2025-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
+- ![](https://img.shields.io/badge/IEEE--CIM-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
 <br> Malu Zhang, Shuai Wang, Jibin Wu, **Wenjie Wei**, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang
 
 
