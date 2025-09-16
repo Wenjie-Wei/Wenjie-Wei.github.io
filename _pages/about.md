@@ -21,11 +21,21 @@ Hello👋! This is Wenjie Wei. I am currently a Ph.D. student (from fall 2022) i
 
 My research interests broadly encompass Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc. I have published more than 20 papers at the top international AI conferences/journals with a total Google Scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
+# 💬 Academic Services
+- *Journal Reviewer*: Neural Networks, IEEE Trans. on Emerging Topics in Computational Intelligence, IEEE Trans. on Cognitive and Developmental Systems, Neurocomputing, Frontiers in Neuroscience, etc.
+- *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
+- *Invited Oral Presentation* titled "Event-Driven Learning for Spiking Neural Networks", at the 11th IEEE International Conference on CIS-RAM Young Scholars Workshop.
+- *Core Contributor of the WeChat Official Account* named "Progress in Brain-Inspired Intelligence", regularly shares the latest research findings and technological developments in the Brain-Inspired Intelligence field.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2025.
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
+- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML.
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR (Oral, 3.3%).
+- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR 2025.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025 (Oral, 4.5%).
+- *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
 # 📝 Publications 
 
@@ -44,16 +54,14 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 team worldwide; Prize: $2,000) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
+- *2022.11*: Outstanding Student Leader, University of Electronic Science and Technology of China. [电子科技大学优秀学生干部] 
+- *2021.09*: First-Class Scholarship, University of Electronic Science and Technology of China. [电子科技大学一等奖学金]
+- *2021.06*: Outstanding Graduate, Zhengzhou University. [郑州大学优秀毕业生]
+- *2019, 2020.11*: National Encouragement Scholarship, Zhengzhou University. [国家励志奖学金]
+- *2018.11*: Outstanding Contributor in Social Service, Zhengzhou University. [郑州大学社会服务先进个人]
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - 2026.06*, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
+- *2021.09 - 2022.06*, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
+- *2017.09 - 2021.06*, B.S. in School of Information Engineering, Zhengzhou University.
