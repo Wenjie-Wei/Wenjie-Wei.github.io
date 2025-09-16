@@ -50,7 +50,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 
 - This paper introduces a dynamic firing threshold and direct training algorithm that enable temporal-coded SNNs to achieve high accuracy and energy efficiency.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)]() 
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/DTA-TTFS) 
 </div>
 </div>
 
