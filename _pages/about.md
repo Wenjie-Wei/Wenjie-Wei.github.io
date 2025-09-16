@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello👋! This is Wenjie Wei. I am currently a Ph.D. student (from fall 2022) at the School of Computer Science and Engineering, <a href="https://en.uestc.edu.cn/" style="text-decoration: none; color: #007bff;">University of Electronic Science and Technology of China</a>, under the supervision of Prof. <a href="https://sites.google.com/view/malu-zhang/home" style="text-decoration: none; color: #007bff;">Malu Zhang</a>. Prior to this, I obtained my Bachelor’s degree from <a href="http://international.zzu.edu.cn/" style="text-decoration: none; color: #007bff;">Zhengzhou University</a> in 2021. 
+Hello👋! This is Wenjie Wei. I am currently a Ph.D. student (from fall 2022) at the School of Computer Science and Engineering, <a href="https://en.uestc.edu.cn/" style="text-decoration: none;">University of Electronic Science and Technology of China</a>, under the supervision of Prof. <a href="https://sites.google.com/view/malu-zhang/home" style="text-decoration: none;">Malu Zhang</a>. Prior to this, I obtained my Bachelor’s degree from <a href="http://international.zzu.edu.cn/" style="text-decoration: none;">Zhengzhou University</a> in 2021. 
 
-My research interests broadly include Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc.
+My research interests broadly include Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc. I have published more than 20 papers at the top international AI conferences with total a google scholar citations <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 
