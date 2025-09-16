@@ -57,14 +57,14 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🏆 Honors and Awards
-- *2025.08*: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 team worldwide) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
-- *2022.11*: Outstanding Student Leader, University of Electronic Science and Technology of China. [电子科技大学优秀学生干部] 
-- *2021.09*: First-Class Scholarship, University of Electronic Science and Technology of China. [电子科技大学一等奖学金]
-- *2021.06*: Outstanding Graduate, Zhengzhou University. [郑州大学优秀毕业生]
-- *2019, 2020.11*: National Encouragement Scholarship, Zhengzhou University. [国家励志奖学金]
-- *2018.11*: Outstanding Contributor in Social Service, Zhengzhou University. [郑州大学社会服务先进个人]
+- 2025.08: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 team worldwide) [IJCAI-2025 SpikeCV 挑战赛 Track2 唯一最佳奖]
+- 2022.11: Outstanding Student Leader, University of Electronic Science and Technology of China. [电子科技大学优秀学生干部] 
+- 2021.09: First-Class Scholarship, University of Electronic Science and Technology of China. [电子科技大学一等奖学金]
+- 2021.06: Outstanding Graduate, Zhengzhou University. [郑州大学优秀毕业生]
+- 2019, 2020.11: National Encouragement Scholarship, Zhengzhou University. [国家励志奖学金]
+- 2018.11: Outstanding Contributor in Social Service, Zhengzhou University. [郑州大学社会服务先进个人]
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
-- *2021.09 - 2022.06*, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
-- *2017.09 - 2021.06*, B.S. in School of Information Engineering, Zhengzhou University.
+- 2022.09 - 2026.06, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
+- 2021.09 - 2022.06, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
+- 2017.09 - 2021.06, B.S. in School of Information Engineering, Zhengzhou University.
