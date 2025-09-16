@@ -2,6 +2,9 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+    
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
   - title: "News"
     url: "/#-news"
@@ -15,8 +18,4 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
