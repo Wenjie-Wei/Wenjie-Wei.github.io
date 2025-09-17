@@ -58,7 +58,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 
 Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
 
-**Wenjie Wei**, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang, Yang Yang
+**Wenjie Wei**, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang<sup>&#9993;</sup>, Yang Yang
 
 - This paper introduces quantized spiking neural networks with binary weights and low-bit membrane potentials, along with a Weight-Spike Dual Regulation method, to achieve energy efficiency and high performance.
 
