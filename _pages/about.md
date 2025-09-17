@@ -40,7 +40,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 (Poster)</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/CCF--A-darkblue)
@@ -53,7 +53,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Poster)</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
@@ -66,7 +66,7 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Poster)</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 QP-SNNs: Quantized and Pruned Spiking Neural Networks
