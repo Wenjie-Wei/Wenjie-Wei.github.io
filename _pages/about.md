@@ -53,7 +53,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 (Poster)</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024 (Poster)</div><img src='images/mm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
