@@ -55,7 +55,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 ## Others
 
-- ![](https://img.shields.io/badge/AAAI-green)![](https://img.shields.io/badge/2025-darkblue)![](https://img.shields.io/badge/Oral-yellow) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
+- ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-darkblue) ![](https://img.shields.io/badge/Oral-yellow) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 
 - ![](https://img.shields.io/badge/ICML-green) ![](https://img.shields.io/badge/2025-darkblue) BSO: Binary Spiking Online Optimization Algorithm. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=V2bw5SmpF6)
@@ -70,7 +70,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - ![](https://img.shields.io/badge/ICLR-green) ![](https://img.shields.io/badge/2025-darkblue) Quantized Spike-driven Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=5J9B7Sb8rO)
 <br> Xuerui Qiu†, Malu Zhang, Jieyuan Zhang†, **Wenjie Wei**, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li
 
-- ![](https://img.shields.io/badge/CVPR-green) ![](https://img.shields.io/badge/2025-darkblue) Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.pdf)
+- ![](https://img.shields.io/badge/CVPR-green) ![](https://img.shields.io/badge/2025-darkblue) ![](https://img.shields.io/badge/Oral-yellow) Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.pdf)
 <br> Yichen Xiao†, Shuai Wang†, Dehao Zhang, **Wenjie Wei**, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
 
 - ![](https://img.shields.io/badge/NeurIPS-green) ![](https://img.shields.io/badge/2024-darkblue) Spike-based Neuromorphic Model for Sound Source Localization. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ce953d71deeb33d9ffa2c879b518d273-Paper-Conference.pdf)
