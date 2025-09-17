@@ -43,7 +43,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 (Poster)</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-![](https://img.shields.io/badge/CCF--A-darkblue) Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation
+Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/CCF--A-darkblue)
 
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
