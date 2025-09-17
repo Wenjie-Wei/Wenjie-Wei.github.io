@@ -43,7 +43,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 (Poster)</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/ICCV-green) ![](https://img.shields.io/badge/2023-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue)
+Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/ICCV-green) ![](https://img.shields.io/badge/2023-yellow) ![](https://img.shields.io/badge/CCF--A-blue)
 
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
@@ -55,10 +55,10 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 
 ## Others
 
-- ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/Oral-red) ![](https://img.shields.io/badge/CCF--A-darkblue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
+- ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/Oral-red) ![](https://img.shields.io/badge/CCF--A-blue) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/ICML-green) ![](https://img.shields.io/badge/2025-darkblue) BSO: Binary Spiking Online Optimization Algorithm. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=V2bw5SmpF6)
+- ![](https://img.shields.io/badge/ICML-green) ![](https://img.shields.io/badge/2025-blue) BSO: Binary Spiking Online Optimization Algorithm. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=V2bw5SmpF6)
 <br> Yu Liang, Yu Yang, **Wenjie Wei**, Ammar Belatreche, Shuai Wang, Malu Zhang, Yang Yang
 
 - ![](https://img.shields.io/badge/IJCAI-green) ![](https://img.shields.io/badge/2025-darkblue) Binary Event-Driven Spiking Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
