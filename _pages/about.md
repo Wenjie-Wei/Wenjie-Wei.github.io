@@ -68,6 +68,9 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 
 ## Others
 
+- ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
+<br> Malu Zhang, **Wenjie Wei**(Student First Author), Zijian Zhou, Wanlong Liu, Jie Zhang, Ammar Belatreche, Yang Yang
+
 - ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) ![](https://img.shields.io/badge/Oral-red) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 <br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 
