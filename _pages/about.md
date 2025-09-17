@@ -53,6 +53,19 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023 (Poster)</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
+
+**Wenjie Wei**, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang, Yang Yang
+
+- This paper introduces quantized spiking neural networks with binary weights and low-bit membrane potentials, along with a Weight-Spike Dual Regulation method, to achieve energy efficiency and high performance.
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.13672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/Q-SNNs)
+</div>
+</div>
+
 ## Others
 
 - ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) ![](https://img.shields.io/badge/Oral-red) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
