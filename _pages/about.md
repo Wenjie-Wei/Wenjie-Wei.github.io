@@ -40,16 +40,16 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/CCF--A-darkblue)
+QP-SNNs: Quantized and Pruned Spiking Neural Networks
 
-**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
+**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang
 
-- This paper introduces a dynamic firing threshold and direct training algorithm that enable temporal-coded SNNs to achieve high accuracy and energy efficiency.
+- This paper proposes QP-SNN, a lightweight and hardware-friendly model that combines weight rescaling-based quantization with singular value-based pruning for efficient edge deployment.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/DTA-TTFS)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef)
 </div>
 </div>
 
@@ -66,16 +66,16 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-QP-SNNs: Quantized and Pruned Spiking Neural Networks
+Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/CCF--A-darkblue)
 
-**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang
+**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
 
-- This paper proposes QP-SNN, a lightweight and hardware-friendly model that combines weight rescaling-based quantization with singular value-based pruning for efficient edge deployment.
+- This paper introduces a dynamic firing threshold and direct training algorithm that enable temporal-coded SNNs to achieve high accuracy and energy efficiency.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/DTA-TTFS)
 </div>
 </div>
 
