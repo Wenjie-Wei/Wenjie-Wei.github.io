@@ -66,6 +66,19 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 (Poster)</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+QP-SNNs: Quantized and Pruned Spiking Neural Networks
+
+**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang
+
+- This paper proposes QP-SNN, a lightweight and hardware-friendly model that combines weight rescaling-based quantization with singular value-based pruning for efficient edge deployment.
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef)
+</div>
+</div>
+
 ## Others
 
 - ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
