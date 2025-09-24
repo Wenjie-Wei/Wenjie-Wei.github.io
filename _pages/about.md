@@ -40,6 +40,17 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+S<sup>2</sup>NN: Sub-bit Spiking Neural Networks
+
+**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Jieyuan Zhang, Ammar Belatreche, Shuai Wang, Yimeng Shan, Hanwen Liu, Honglin Cao, Guoqing Wang, Yang Yang, Haizhou Li
+- This work introduces sub-bit SNNs, which compress synaptic weights to below one bit using outlier-aware sub-bit quantization and membrane potential-based feature distillation, achieving state-of-the-art efficiency and performance for edge computing applications.
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://neurips.cc/virtual/2025/poster/116668)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
