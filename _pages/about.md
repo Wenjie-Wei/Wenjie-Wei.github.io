@@ -28,6 +28,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Three papers is accepted by NeurIPS-2025.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
