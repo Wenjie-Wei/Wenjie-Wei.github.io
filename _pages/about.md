@@ -29,7 +29,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.
-- *2025.09*: &nbsp;🎉🎉 Three papers is accepted by NeurIPS-2025.
+- *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS-2025.
 - *2025.09*: &nbsp;🎉🎉 One survey paper about Photonic Chips and SNNs is accepted by Nanophotonics.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
