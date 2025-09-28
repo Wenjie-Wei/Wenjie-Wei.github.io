@@ -43,7 +43,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 📝 Publications
 ## Survey Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks[IF: 6.3]</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Spiking Neural Networks for EEG Signal Analysis: From Theory to Practice
@@ -54,7 +54,7 @@ Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanophotonics</div><img src='images/nano.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanophotonics[IF: 6.6]</div><img src='images/nano.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips
@@ -121,7 +121,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 
 ## Others
 
-- ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
+- ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:12-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
 <br> Malu Zhang, **Wenjie Wei (Student First Author)**, Zijian Zhou, Wanlong Liu, Jie Zhang, Ammar Belatreche, Yang Yang
 
 - ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) ![](https://img.shields.io/badge/Oral-red) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
@@ -142,13 +142,13 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 - ![](https://img.shields.io/badge/NeurIPS-green) ![](https://img.shields.io/badge/2024-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Spike-based Neuromorphic Model for Sound Source Localization. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ce953d71deeb33d9ffa2c879b518d273-Paper-Conference.pdf)
 <br> Dehao Zhang†, Shuai Wang†, Ammar Belatreche, **Wenjie Wei**, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/IEEE--CIM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
+- ![](https://img.shields.io/badge/IEEE--CIM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:11.2-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
 <br> Malu Zhang, Shuai Wang, Jibin Wu, **Wenjie Wei**, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang
 
 - ![](https://img.shields.io/badge/ICASSP-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--B-darkblue) Memory-Free and Parallel Computation for Quantized Spiking Neural Networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10890361)
 <br> Dehao Zhang, Shuai Wang, Yichen Xiao, **Wenjie Wei**, Yimeng Shan, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) Ternary spike-based neuromorphic signal processing system. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
+- ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:6.3-darkblue) Ternary spike-based neuromorphic signal processing system. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
 <br> Shuai Wang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, **Wenjie Wei**, Malu Zhang, Yang Yang
 
 - ![](https://img.shields.io/badge/Arxiv-green) ![](https://img.shields.io/badge/2025-yellow) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.08703) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/YmShan/SDTrack)
