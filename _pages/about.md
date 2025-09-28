@@ -42,7 +42,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
 # 📝 Publications
-## Survey Paper
+## Survey Papers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,14 +59,14 @@ Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang,
 
 What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips
 
-Renjie Li, Qi Xin, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
+Renjie Li†, Qi Xin†, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
 - This review surveys emerging photonic hardware optimized for next-generation generative AI computing. 
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.05794)
 
 </div>
 </div>
 
-## Selected Paper
+## Selected Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,9 +132,6 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 
 - ![](https://img.shields.io/badge/IJCAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Binary Event-Driven Spiking Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
 <br> Honglin Cao†, Zijian Zhou†, **Wenjie Wei**, Ammar Belatreche, Yu Liang, Dehao Zhang, Malu Zhang, Yang Yang, Haizhou Li
-
-- ![](https://img.shields.io/badge/Nanophotonics-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/JCR--Q1-darkblue) What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2505.05794)
-<br> Renjie Li†, Qi Xin†, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
 
 - ![](https://img.shields.io/badge/ICLR-green) ![](https://img.shields.io/badge/2025-yellow) Quantized Spike-driven Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=5J9B7Sb8rO)
 <br> Xuerui Qiu†, Malu Zhang, Jieyuan Zhang†, **Wenjie Wei**, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li
