@@ -43,10 +43,10 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 
 # 📝 Publications
 ## Survey Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks[IF: 6.3]</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Spiking Neural Networks for EEG Signal Analysis: From Theory to Practice
+Spiking Neural Networks for EEG Signal Analysis: From Theory to Practice ![](https://img.shields.io/badge/IF:6.3-darkblue)
 
 Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang, Malu Zhang, Tanja Schultz, Haizhou Li
 - The review encompasses foundational knowledge of SNNs, detailed implementation strategies for EEG analysis, and challenges inherent to SNN-based methods.
@@ -54,10 +54,10 @@ Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanophotonics[IF: 6.6]</div><img src='images/nano.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nanophotonics</div><img src='images/nano.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips
+What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips ![](https://img.shields.io/badge/IF:6.6-darkblue)
 
 Renjie Li†, Qi Xin†, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
 - This review surveys emerging photonic hardware optimized for next-generation generative AI computing. 
