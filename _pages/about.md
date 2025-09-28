@@ -40,7 +40,22 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025 (Oral, 4.5%).
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
-# 📝 Publications 
+# 📝 Publications
+## Survey Paper
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/eeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Spiking Neural Networks for EEG Signal Analysis: From Theory to Practice
+
+Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang, Malu Zhang, Tanja Schultz, Haizhou Li
+The review encompasses foundational knowledge of SNNs, detailed implementation strategies for EEG analysis, and challenges inherent to SNN-based methods. Practical guidance is provided through step-by-step instructions and accessible code available on GitHub, aimed at facilitating researchers’ adoption of these techniques
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://neurips.cc/virtual/2025/poster/116668)
+</div>
+</div>
+
+## Selected Paper
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
