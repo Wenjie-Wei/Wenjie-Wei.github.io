@@ -48,9 +48,9 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 Spiking Neural Networks for EEG Signal Analysis: From Theory to Practice
 
 Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang, Malu Zhang, Tanja Schultz, Haizhou Li
-The review encompasses foundational knowledge of SNNs, detailed implementation strategies for EEG analysis, and challenges inherent to SNN-based methods. Practical guidance is provided through step-by-step instructions and accessible code available on GitHub, aimed at facilitating researchers’ adoption of these techniques
+- The review encompasses foundational knowledge of SNNs, detailed implementation strategies for EEG analysis, and challenges inherent to SNN-based methods. Practical guidance is provided through step-by-step instructions and accessible code available on GitHub.
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/pii/S089360802501007X)\| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/i-spoon/EEG-Spiking-Network)
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://neurips.cc/virtual/2025/poster/116668)
 </div>
 </div>
 
