@@ -76,7 +76,7 @@ S<sup>2</sup>NN: Sub-bit Spiking Neural Networks ![](https://img.shields.io/badg
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Jieyuan Zhang, Ammar Belatreche, Shuai Wang, Yimeng Shan, Hanwen Liu, Honglin Cao, Guoqing Wang, Yang Yang, Haizhou Li
 - This work introduces sub-bit SNNs, which compress synaptic weights to below one bit using outlier-aware sub-bit quantization and membrane potential-based feature distillation, achieving state-of-the-art efficiency and performance for edge computing applications.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://neurips.cc/virtual/2025/poster/116668)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2509.24266)
 </div>
 </div>
 
