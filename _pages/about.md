@@ -120,6 +120,8 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 
 ## Others
+- ![](https://img.shields.io/badge/ACMMM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Temporal-coded Spiking Transformer.
+<br> Qian Sun, Chengzhuo Lu, Wenyu Chen, **Wenjie Wei**<sup>&#9993;</sup>, Jingya Wang, Jieyuan Zhang, Xiaoli Liu, Yalan Ye, Yang Yang, Malu Zhang
 
 - ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:12-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
 <br> Malu Zhang, **Wenjie Wei (Student First Author)**, Zijian Zhou, Wanlong Liu, Jie Zhang, Ammar Belatreche, Yang Yang
