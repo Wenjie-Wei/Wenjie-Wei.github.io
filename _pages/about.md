@@ -156,7 +156,10 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 - ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:6.3-darkblue) Ternary spike-based neuromorphic signal processing system. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
 <br> Shuai Wang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, **Wenjie Wei**, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/Arxiv-green) ![](https://img.shields.io/badge/2025-yellow) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.08703) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/YmShan/SDTrack)
+- ![](https://img.shields.io/badge/Arxiv-green) Event-driven learning for spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2403.00270)
+<br> **Wenjie Wei**, Malu Zhang, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
+
+- ![](https://img.shields.io/badge/Arxiv-green) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.08703) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/YmShan/SDTrack)
 <br> Yimeng Shan, Zhenbang Ren, Haodi Wu, **Wenjie Wei**, Rui-Jie Zhu, Shuai Wang, et al.
 
 
