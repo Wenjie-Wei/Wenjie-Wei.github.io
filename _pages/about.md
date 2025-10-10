@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "vv's homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
