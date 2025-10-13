@@ -89,7 +89,7 @@ QP-SNNs: Quantized and Pruned Spiking Neural Networks
 
 - This paper proposes QP-SNN, a lightweight and hardware-friendly model that combines weight rescaling-based quantization with singular value-based pruning for efficient edge deployment.
 
-- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef)
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/QP-SNN)
 </div>
 </div>
 
