@@ -59,7 +59,7 @@ Siqi Cai, Zheyuan Lin, Xiaoli Liu, **Wenjie Wei**<sup>&#9993;</sup>, Shuai Wang,
 
 What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips ![](https://img.shields.io/badge/IF:6.6-darkblue)
 
-Renjie Li†, Qi Xin†, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li, Zhaoyu Zhang
+Renjie Li, Qi Xin, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen, Malu Zhang, Haizhou Li<sup>&#9993;</sup>, Zhaoyu Zhang<sup>&#9993;</sup>
 - This review surveys emerging photonic hardware optimized for next-generation generative AI computing. 
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0217/html)
 
