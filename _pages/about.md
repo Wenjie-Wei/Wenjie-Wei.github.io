@@ -21,6 +21,8 @@ Hello👋! This is Wenjie Wei（卫文杰）. I am currently a Ph.D. student (fr
 
 My research interests broadly encompass Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc. I have published more than 20 papers at the top international AI conferences/journals with a total Google Scholar citations <a href='https://scholar.google.com.hk/citations?user=OIZR2YYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
+Telegram/Wechat: (+86) 15738546977. Please feel free to reach out to me.
+
 # 💬 Academic Services
 - Journal Reviewer: Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
 - Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
