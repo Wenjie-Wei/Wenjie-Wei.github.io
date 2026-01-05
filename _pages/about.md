@@ -24,7 +24,7 @@ My research interests broadly encompass Brain-inspired Computing, Spiking Neural
 Telegram/Wechat: (+86) 15738546977. Please feel free to reach out to me.
 
 # 💬 Academic Services
-- Journal Reviewer: Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
+- Journal Reviewer: Expert Systems With Applications, Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
 - Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
 - Invited Oral Presentation titled "Event-Driven Learning for Spiking Neural Networks", at the 11th IEEE International Conference on CIS-RAM Young Scholars Workshop.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
