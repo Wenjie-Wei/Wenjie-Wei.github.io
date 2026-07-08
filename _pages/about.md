@@ -156,6 +156,18 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/iccv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation ![](https://img.shields.io/badge/CCF--A-darkblue)
+
+Zijian Zhou, **Wenjie Wei (Corresponding author)**<sup>&#9993;</sup>, Yu Liang, Jialin Li, Ammar Belatreche, Honglin Cao, Shuai Wang, Malu Zhang, Yang Yang, Haizhou Li
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=UoUKCLHjRa) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/CayleyZ/SmoothSpike)
+</div>
+</div>
+
 ## Others
 - ![](https://img.shields.io/badge/ACMMM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Temporal-coded Spiking Transformer.
 <br> Qian Sun, Chengzhuo Lu, Wenyu Chen, **Wenjie Wei**<sup>&#9993;</sup>, Jingya Wang, Jieyuan Zhang, Xiaoli Liu, Yalan Ye, Yang Yang, Malu Zhang
