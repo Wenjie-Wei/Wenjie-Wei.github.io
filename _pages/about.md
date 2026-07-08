@@ -188,6 +188,6 @@ Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang
 
 # 📖 Educations
 - 2026.07 - now, Research Fellow in the College of Design and Engineering, National University of Singapore. (Supervisor: Haizhou Li)
-- 2022.09 - 2026.06, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
+- 2022.09 - 2026.06, Ph.D. in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
 - 2021.09 - 2022.06, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 - 2017.09 - 2021.06, B.S. in School of Information Engineering, Zhengzhou University.
