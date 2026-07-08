@@ -35,24 +35,24 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto; padding-right: 10px;">
   
-- *2026.05*: &nbsp;🎉🎉 Four papers are accepted by ICML-2026.
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2026.
-- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR-2026.
-- *2026.01*: &nbsp;🎉🎉 Two paper are accepted by ICASSP-2026.
-- *2025.11*: &nbsp;🎉🎉 Two paper are accepted by AAAI-2026.
-- *2025.09*: &nbsp;🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.
-- *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS-2025.
-- *2025.09*: &nbsp;🎉🎉 One survey paper about Photonic Chips and SNNs is accepted by Nanophotonics.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
-- *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-- *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML-2025.
-- *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI-2025.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025.
-- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025.
-- *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
+*2026.05*: &nbsp;🎉🎉 Four papers are accepted by ICML-2026.
+</br> *2026.04*: &nbsp;🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.
+</br> *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2026.
+</br> *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR-2026.
+</br> *2026.01*: &nbsp;🎉🎉 Two paper are accepted by ICASSP-2026.
+</br> *2025.11*: &nbsp;🎉🎉 Two paper are accepted by AAAI-2026.
+</br> *2025.09*: &nbsp;🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.
+</br> *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS-2025.
+</br> *2025.09*: &nbsp;🎉🎉 One survey paper about Photonic Chips and SNNs is accepted by Nanophotonics.
+</br> *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
+</br> *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
+</br> *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
+</br> *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML-2025.
+</br> *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI-2025.
+</br> *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025.
+</br> *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
+</br> *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025.
+</br> *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 </div>
 
 # 📝 Publications
