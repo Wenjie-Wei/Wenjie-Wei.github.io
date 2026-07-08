@@ -157,10 +157,10 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight</div><img src='images/icml26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation ![](https://img.shields.io/badge/CCF--A Spotlight-darkblue)
+SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation ![](https://img.shields.io/badge/CCF--A-darkblue)
 
 Zijian Zhou, **Wenjie Wei**<sup>&#9993;</sup>, Yu Liang, Jialin Li, Ammar Belatreche, Honglin Cao, Shuai Wang, Malu Zhang, Yang Yang, Haizhou Li
 
@@ -177,7 +177,7 @@ Qian Sun, Chengzhuo Lu, Wenyu Chen, **Wenjie Wei**<sup>&#9993;</sup>, Jingya Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural--Networks</div><img src='images/nn25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks</div><img src='images/nn25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 ESTSformer: Efficient Spatio-Temporal Spiking Transformer. ![](https://img.shields.io/badge/IF:6.3-darkblue)
   
@@ -187,9 +187,10 @@ Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang
 </div>
 
 
-
-
 # 🏆 Honors and Awards
+- 2025.12: Outstanding Graduate, University of Electronic Science and Technology of China.
+- 2025.11: Scholarship of the 14th Research Institute of China Electronics Technology Group Corporation.
+- 2025.10: Outstanding Postgraduate Student, University of Electronic Science and Technology of China.
 - 2025.08: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 Team Worldwide)
 - 2022.11: Outstanding Student Leader, University of Electronic Science and Technology of China.
 - 2021.09: First-Class Scholarship, University of Electronic Science and Technology of China. 
@@ -198,6 +199,7 @@ Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang
 - 2018.11: Outstanding Contributor in Social Service, Zhengzhou University.
 
 # 📖 Educations
+- 2026.07 - now, Research Fellow in the College of Design and Engineering, National University of Singapore. (Supervisor: Haizhou Li)
 - 2022.09 - 2026.06, Ph.D. Candidate in School of Computer Science and Engineering, University of Electronic Science and Technology of China. (Supervisor: Malu Zhang)
 - 2021.09 - 2022.06, M.S. in School of Computer Science and Engineering, University of Electronic Science and Technology of China.
 - 2017.09 - 2021.06, B.S. in School of Information Engineering, Zhengzhou University.
