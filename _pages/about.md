@@ -34,7 +34,7 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
   
 # 🔥 News
 
-<div style="max-height: 300px; overflow-y: auto; padding-right: 10px; line-height: 1.55;">
+<div style="max-height: 300px; overflow-y: auto; padding-right: 10px; line-height: 1.53;">
 
 <ul style="margin-top: 0; padding-left: 20px;">
   <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 Joined NUS as a Research Fellow.</li>
