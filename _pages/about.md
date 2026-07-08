@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello👋! This is Wenjie Wei（卫文杰）. I am currently a Ph.D. student (from fall 2022) in <a href="https://www.scse.uestc.edu.cn/en/" style="text-decoration: none;">the School of Computer Science and Engineering</a> at <a href="https://en.uestc.edu.cn/" style="text-decoration: none;"> the University of Electronic Science and Technology of China</a> (Chengdu, Sichuan). I am supervised by Prof. <a href="https://www.scse.uestc.edu.cn/info/1081/12350.htm" style="text-decoration: none;">Malu Zhang（张马路）</a>. Prior to joining UESTC, I obtained my Bachelor’s degree from <a href="http://international.zzu.edu.cn/" style="text-decoration: none;">Zhengzhou University</a> in 2021.
+Hello! This is Wenjie Wei. I am currently a Research Fellow at the National University of Singapore, working with Prof. Haizhou Li. I received my Ph.D. from the University of Electronic Science and Technology of China in June 2026, under the supervision of Prof. Malu Zhang. Prior to this, I obtained my Bachelor’s degree from Zhengzhou University in 2021. My research interests include software-hardware co-design, brain-inspired computing, spiking neural networks, and speech intelligence.
 
-My research interests broadly encompass Brain-inspired Computing, Spiking Neural Networks, Model Compression, Neuromorphic Vision, etc. I have published more than 20 papers at the top international AI conferences/journals with a total Google Scholar citations <a href='https://scholar.google.com.hk/citations?user=OIZR2YYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-Telegram/Wechat: (+86) 15738546977. Please feel free to reach out to me.
+Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 
 # 💬 Academic Services
 - Journal Reviewer: Expert Systems With Applications, Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
@@ -30,6 +28,12 @@ Telegram/Wechat: (+86) 15738546977. Please feel free to reach out to me.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Four papers are accepted by ICML-2026.
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2026.
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR-2026.
+- *2026.01*: &nbsp;🎉🎉 Two paper are accepted by ICASSP-2026.
+- *2025.11*: &nbsp;🎉🎉 Two paper are accepted by AAAI-2026.
 - *2025.09*: &nbsp;🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.
 - *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS-2025.
 - *2025.09*: &nbsp;🎉🎉 One survey paper about Photonic Chips and SNNs is accepted by Nanophotonics.
@@ -38,9 +42,9 @@ Telegram/Wechat: (+86) 15738546977. Please feel free to reach out to me.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
 - *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML-2025.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI-2025.
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025 (Oral, 3.3%).
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025.
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025 (Oral, 4.5%).
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025.
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
 
 # 📝 Publications
@@ -70,13 +74,36 @@ Renjie Li, Qi Xin, **Wenjie Wei**, Xiaoli Liu, Sixuan Mao, Erik Ma, Zijian Chen,
 
 ## Selected Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENCE CHINA Information Sciences</div><img src='images/scis26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Event-driven learning for spiking neural networks ![](https://img.shields.io/badge/CCF--A-darkblue)
+
+**Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)]([https://openreview.net/pdf?id=L5llQD0nMf](https://arxiv.org/pdf/2403.00270))
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+TP-Spikformer: Token Pruned Spiking Transformer ![](https://img.shields.io/badge/CCF--A-darkblue)
+
+**Wenjie Wei**, Xiaolong Zhou, Malu Zhang<sup>&#9993;</sup>, Ammar Belatreche, Qian Sun, Yimeng Shan, Dehao Zhang, Zijian Zhou, Zeyu Ma, Yang Yang, Haizhou Li
+
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=L5llQD0nMf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)]([https://github.com/Wenjie-Wei/QP-SNN](https://github.com/xlzhou126/TP-Spikformer))
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 S<sup>2</sup>NN: Sub-bit Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
 
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Jieyuan Zhang, Ammar Belatreche, Shuai Wang, Yimeng Shan, Hanwen Liu, Honglin Cao, Guoqing Wang, Yang Yang, Haizhou Li
-- This work introduces sub-bit SNNs, which compress synaptic weights to below one bit using outlier-aware sub-bit quantization and membrane potential-based feature distillation, achieving state-of-the-art efficiency and performance for edge computing applications.
 
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2509.24266)
 </div>
@@ -85,11 +112,9 @@ S<sup>2</sup>NN: Sub-bit Spiking Neural Networks ![](https://img.shields.io/badg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-QP-SNNs: Quantized and Pruned Spiking Neural Networks
+QP-SNNs: Quantized and Pruned Spiking Neural Networks ![](https://img.shields.io/badge/CCF--A-darkblue)
 
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Zijian Zhou, Ammar Belatreche, Yimeng Shan, Yu Liang, Honglin Cao, Jieyuan Zhang, Yang Yang
-
-- This paper proposes QP-SNN, a lightweight and hardware-friendly model that combines weight rescaling-based quantization with singular value-based pruning for efficient edge deployment.
 
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=MiPyle6Jef) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/QP-SNN)
 </div>
@@ -102,8 +127,6 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 
 **Wenjie Wei**, Yu Liang, Ammar Belatreche, Yichen Xiao, Honglin Cao, Zhenbang Ren, Guoqing Wang, Malu Zhang<sup>&#9993;</sup>, Yang Yang
 
-- This paper introduces quantized spiking neural networks with binary weights and low-bit membrane potentials, along with a Weight-Spike Dual Regulation method, to achieve energy efficiency and high performance.
-
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2406.13672) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/Q-SNNs)
 </div>
 </div>
@@ -114,8 +137,6 @@ Q-SNNs: Quantized Spiking Neural Networks ![](https://img.shields.io/badge/CCF--
 Temporal-coded spiking neural networks with dynamic firing threshold: Learning with event-driven backpropagation ![](https://img.shields.io/badge/CCF--A-darkblue)
 
 **Wenjie Wei**, Malu Zhang<sup>&#9993;</sup>, Hong Qu, Ammar Belatreche, Jian Zhang, Hong Chen
-
-- This paper introduces a dynamic firing threshold and direct training algorithm that enable temporal-coded SNNs to achieve high accuracy and energy efficiency.
 
 - [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/ICCV2023/papers/Wei_Temporal-Coded_Spiking_Neural_Networks_with_Dynamic_Firing_Threshold_Learning_with_ICCV_2023_paper.pdf) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/Wenjie-Wei/DTA-TTFS)
 </div>
@@ -128,41 +149,9 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 - ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:6.3-darkblue) ESTSformer: Efficient Spatio-Temporal Spiking Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006665)
 <br> Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang, Dingyi Zeng, Wenyu Chen, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/IEEE--TEVC-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:12-darkblue) Spike-Driven Lightweight Large Language Model With Evolutionary Computation. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/11152565)
-<br> Malu Zhang, **Wenjie Wei (Student First Author)**, Zijian Zhou, Wanlong Liu, Jie Zhang, Ammar Belatreche, Yang Yang
 
-- ![](https://img.shields.io/badge/AAAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) ![](https://img.shields.io/badge/Oral-red) Towards Accurate Binary Spiking Neural Networks: Learning with Adaptive Gradient Modulation Mechanism. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
-<br> Yu Liang, **Wenjie Wei**, Ammar Belatreche, Honglin Cao, Zijian Zhou, Shuai Wang, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/ICML-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) BSO: Binary Spiking Online Optimization Algorithm. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=V2bw5SmpF6)
-<br> Yu Liang, Yu Yang, **Wenjie Wei**, Ammar Belatreche, Shuai Wang, Malu Zhang, Yang Yang
 
-- ![](https://img.shields.io/badge/IJCAI-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Binary Event-Driven Spiking Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ojs.aaai.org/index.php/AAAI/article/view/32130)
-<br> Honglin Cao†, Zijian Zhou†, **Wenjie Wei**, Ammar Belatreche, Yu Liang, Dehao Zhang, Malu Zhang, Yang Yang, Haizhou Li
-
-- ![](https://img.shields.io/badge/ICLR-green) ![](https://img.shields.io/badge/2025-yellow) Quantized Spike-driven Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openreview.net/pdf?id=5J9B7Sb8rO)
-<br> Xuerui Qiu†, Malu Zhang, Jieyuan Zhang†, **Wenjie Wei**, Honglin Cao, Junsheng Guo, Rui-Jie Zhu, Yimeng Shan, Yang Yang, Haizhou Li
-
-- ![](https://img.shields.io/badge/CVPR-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) ![](https://img.shields.io/badge/Oral-red) Rethinking Spiking Self-Attention Mechanism: Implementing a-XNOR Similarity Calculation in Spiking Transformers. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://openaccess.thecvf.com/content/CVPR2025/papers/Xiao_Rethinking_Spiking_Self-Attention_Mechanism_Implementing_a-XNOR_Similarity_Calculation_in_Spiking_CVPR_2025_paper.pdf)
-<br> Yichen Xiao†, Shuai Wang†, Dehao Zhang, **Wenjie Wei**, Yimeng Shan, Xiaoli Liu, Yulin Jiang, Malu Zhang
-
-- ![](https://img.shields.io/badge/NeurIPS-green) ![](https://img.shields.io/badge/2024-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Spike-based Neuromorphic Model for Sound Source Localization. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://proceedings.neurips.cc/paper_files/paper/2024/file/ce953d71deeb33d9ffa2c879b518d273-Paper-Conference.pdf)
-<br> Dehao Zhang†, Shuai Wang†, Ammar Belatreche, **Wenjie Wei**, Yichen Xiao, Haorui Zheng, Zijian Zhou, Malu Zhang, Yang Yang
-
-- ![](https://img.shields.io/badge/IEEE--CIM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:11.2-darkblue) Towards Energy-Efficient Spike-Based Deep Reinforcement Learning With Temporal Coding. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10976463)
-<br> Malu Zhang, Shuai Wang, Jibin Wu, **Wenjie Wei**, Dehao Zhang, Zijian Zhou, Siying Wang, Fan Zhang, Yang Yang
-
-- ![](https://img.shields.io/badge/ICASSP-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--B-darkblue) Memory-Free and Parallel Computation for Quantized Spiking Neural Networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://ieeexplore.ieee.org/abstract/document/10890361)
-<br> Dehao Zhang, Shuai Wang, Yichen Xiao, **Wenjie Wei**, Yimeng Shan, Malu Zhang, Yang Yang
-
-- ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:6.3-darkblue) Ternary spike-based neuromorphic signal processing system. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025002126)
-<br> Shuai Wang, Dehao Zhang, Ammar Belatreche, Yichen Xiao, Hongyu Qing, **Wenjie Wei**, Malu Zhang, Yang Yang
-
-- ![](https://img.shields.io/badge/Arxiv-green) Event-driven learning for spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2403.00270)
-<br> **Wenjie Wei**, Malu Zhang, Jilin Zhang, Ammar Belatreche, Jibin Wu, Zijing Xu, Xuerui Qiu, Hong Chen, Yang Yang, Haizhou Li
-
-- ![](https://img.shields.io/badge/Arxiv-green) Sdtrack: A baseline for event-based tracking via spiking neural networks. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://arxiv.org/pdf/2503.08703) \| [![](https://img.shields.io/badge/Code-fff?logo=github&logoColor=000)](https://github.com/YmShan/SDTrack)
-<br> Yimeng Shan, Zhenbang Ren, Haodi Wu, **Wenjie Wei**, Rui-Jie Zhu, Shuai Wang, et al.
 
 
 
