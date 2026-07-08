@@ -31,28 +31,34 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 - Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
 - Invited Oral Presentation titled "Event-Driven Learning for Spiking Neural Networks", at the 11th IEEE International Conference on CIS-RAM Young Scholars Workshop.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
-
-# 🔥 News
-<div style="max-height: 200px; overflow-y: auto; padding-right: 10px;">
   
-*2026.05*: &nbsp;🎉🎉 Four papers are accepted by ICML-2026.
-</br> *2026.04*: &nbsp;🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.
-</br> *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2026.
-</br> *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR-2026.
-</br> *2026.01*: &nbsp;🎉🎉 Two paper are accepted by ICASSP-2026.
-</br> *2025.11*: &nbsp;🎉🎉 Two paper are accepted by AAAI-2026.
-</br> *2025.09*: &nbsp;🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.
-</br> *2025.09*: &nbsp;🎉🎉 Three papers are accepted by NeurIPS-2025.
-</br> *2025.09*: &nbsp;🎉🎉 One survey paper about Photonic Chips and SNNs is accepted by Nanophotonics.
-</br> *2025.08*: &nbsp;🎉🎉 One paper is accepted by IEEE Trans. Evolutionary Computation.
-</br> *2025.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM-2025.
-</br> *2025.06*: &nbsp;🎉🎉 One paper is accepted by Neural Networks.
-</br> *2025.05*: &nbsp;🎉🎉 One paper is accepted by ICML-2025.
-</br> *2025.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI-2025.
-</br> *2025.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2025.
-</br> *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
-</br> *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025.
-</br> *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
+# 🔥 News
+
+<div style="max-height: 300px; overflow-y: auto; padding-right: 10px; line-height: 1.35;">
+
+<ul style="margin-top: 0; padding-left: 20px;">
+  <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 Joined NUS as a Research Fellow.</li>
+  <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 Passed my Ph.D. dissertation defense with all excellent evaluations.</li>
+  <li style="margin-bottom: 3px;"><em>2026.05</em>: 🎉🎉 Four papers are accepted by ICML-2026.</li>
+  <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.</li>
+  <li style="margin-bottom: 3px;"><em>2026.03</em>: 🎉🎉 Submitted my Ph.D. dissertation.</li> 
+  <li style="margin-bottom: 3px;"><em>2026.02</em>: 🎉🎉 One paper is accepted by CVPR-2026.</li>
+  <li style="margin-bottom: 3px;"><em>2026.01</em>: 🎉🎉 One paper is accepted by ICLR-2026.</li>
+  <li style="margin-bottom: 3px;"><em>2026.01</em>: 🎉🎉 Two papers are accepted by ICASSP-2026.</li>
+  <li style="margin-bottom: 3px;"><em>2025.11</em>: 🎉🎉 Two papers are accepted by AAAI-2026.</li>
+  <li style="margin-bottom: 3px;"><em>2025.09</em>: 🎉🎉 One survey paper about EEG and SNNs is accepted by Neural Networks.</li>
+  <li style="margin-bottom: 3px;"><em>2025.09</em>: 🎉🎉 Three papers are accepted by NeurIPS-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2025.09</em>: 🎉🎉 One survey paper about photonic chips and SNNs is accepted by Nanophotonics.</li>
+  <li style="margin-bottom: 3px;"><em>2025.08</em>: 🎉🎉 One paper is accepted by IEEE Transactions on Evolutionary Computation.</li>
+  <li style="margin-bottom: 3px;"><em>2025.07</em>: 🎉🎉 One paper is accepted by ACM MM-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2025.06</em>: 🎉🎉 One paper is accepted by Neural Networks.</li>
+  <li style="margin-bottom: 3px;"><em>2025.05</em>: 🎉🎉 One paper is accepted by ICML-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2025.04</em>: 🎉🎉 One paper is accepted by IJCAI-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2025.02</em>: 🎉🎉 One paper is accepted by CVPR-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2025.01</em>: 🎉🎉 Two papers are accepted by ICLR-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2024.12</em>: 🎉🎉 One paper is accepted by AAAI-2025.</li>
+  <li style="margin-bottom: 3px;"><em>2024.12</em>: 🎉🎉 Created my personal homepage.</li>
+</ul>
 </div>
 
 # 📝 Publications
