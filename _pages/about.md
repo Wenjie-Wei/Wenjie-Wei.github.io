@@ -17,7 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! This is Wenjie Wei. I am currently a Research Fellow at the National University of Singapore, working with Prof. Haizhou Li. I received my Ph.D. from the University of Electronic Science and Technology of China in June 2026, under the supervision of Prof. Malu Zhang. Prior to this, I obtained my Bachelor’s degree from Zhengzhou University in 2021. My research interests include software-hardware co-design, brain-inspired computing, spiking neural networks, and speech intelligence.
+Hello! This is Wenjie Wei. I am currently a Research Fellow at the National University of Singapore, working with Prof. Haizhou Li. I received my Ph.D. from the University of Electronic Science and Technology of China in June 2026, under the supervision of Prof. Malu Zhang. Prior to this, I obtained my Bachelor’s degree from Zhengzhou University in 2021. 
+
+My research interests include software-hardware co-design, brain-inspired computing, spiking neural networks, and speech intelligence.
+- 📔 Software-hardware co-design: model compression, binary neural networks, quantization, pruning, etc.
+- 📔 Neuromorphic computing: spiking neural networks, event-driven learning, etc.
+- 📔 Speech intelligence: speech processing, and efficient speech models, etc.
 
 Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 
@@ -28,6 +33,8 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
 
 # 🔥 News
+<div style="max-height: 200px; overflow-y: auto; padding-right: 10px;">
+  
 - *2026.05*: &nbsp;🎉🎉 Four papers are accepted by ICML-2026.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.
 - *2026.02*: &nbsp;🎉🎉 One paper is accepted by CVPR-2026.
@@ -46,6 +53,7 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICLR-2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI-2025.
 - *2024.12*: &nbsp;🎉🎉 Created my own personal homepage.
+</div>
 
 # 📝 Publications
 ## Survey Papers
