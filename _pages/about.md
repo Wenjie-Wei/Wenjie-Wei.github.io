@@ -37,11 +37,11 @@ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; line-height: 1.53;">
 
 <ul style="margin-top: 0; padding-left: 20px;">
-  <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 Joined NUS as a Research Fellow.</li>
-  <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 Passed my Ph.D. dissertation defense with all excellent evaluations.</li>
+  <li style="margin-bottom: 3px;"><em>2026.07</em>: 🎉🎉 Joined NUS as a Research Fellow.</li>
+  <li style="margin-bottom: 3px;"><em>2026.05</em>: 👩🏻‍🎓👩🏻‍🎓 Passed my Ph.D. dissertation defense with all excellent evaluations.</li>
   <li style="margin-bottom: 3px;"><em>2026.05</em>: 🎉🎉 Four papers are accepted by ICML-2026.</li>
   <li style="margin-bottom: 3px;"><em>2026.04</em>: 🎉🎉 One paper is accepted by SCIENCE CHINA Information Sciences.</li>
-  <li style="margin-bottom: 3px;"><em>2026.03</em>: 🎉🎉 Submitted my Ph.D. dissertation.</li> 
+  <li style="margin-bottom: 3px;"><em>2026.03</em>: 🙏🏻🙏🏻 Submitted my Ph.D. dissertation.</li> 
   <li style="margin-bottom: 3px;"><em>2026.02</em>: 🎉🎉 One paper is accepted by CVPR-2026.</li>
   <li style="margin-bottom: 3px;"><em>2026.01</em>: 🎉🎉 One paper is accepted by ICLR-2026.</li>
   <li style="margin-bottom: 3px;"><em>2026.01</em>: 🎉🎉 Two papers are accepted by ICASSP-2026.</li>
