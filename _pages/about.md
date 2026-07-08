@@ -63,8 +63,6 @@ Hello! This is Wenjie Wei😀. I am currently a Research Fellow at the National 
 
 # 📝 Publications
 
-## Selected Papers
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENCE CHINA Information Sciences</div><img src='images/scis26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
