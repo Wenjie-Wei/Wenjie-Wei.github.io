@@ -157,7 +157,7 @@ Temporal-coded spiking neural networks with dynamic firing threshold: Learning w
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/icml26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation ![](https://img.shields.io/badge/CCF--A Spotlight-darkblue)
@@ -168,16 +168,23 @@ Zijian Zhou, **Wenjie Wei**<sup>&#9993;</sup>, Yu Liang, Jialin Li, Ammar Belatr
 </div>
 </div>
 
-## Others
-- ![](https://img.shields.io/badge/ACMMM-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/CCF--A-darkblue) Temporal-coded Spiking Transformer.
-<br> Qian Sun, Chengzhuo Lu, Wenyu Chen, **Wenjie Wei**<sup>&#9993;</sup>, Jingya Wang, Jieyuan Zhang, Xiaoli Liu, Yalan Ye, Yang Yang, Malu Zhang
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Temporal-coded Spiking Transformer. ![](https://img.shields.io/badge/CCF--A-darkblue)
+  
+Qian Sun, Chengzhuo Lu, Wenyu Chen, **Wenjie Wei**<sup>&#9993;</sup>, Jingya Wang, Jieyuan Zhang, Xiaoli Liu, Yalan Ye, Yang Yang, Malu Zhang
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://dl.acm.org/doi/pdf/10.1145/3746027.3754545)
+</div>
+</div>
 
-- ![](https://img.shields.io/badge/Neural--Networks-green) ![](https://img.shields.io/badge/2025-yellow) ![](https://img.shields.io/badge/IF:6.3-darkblue) ESTSformer: Efficient Spatio-Temporal Spiking Transformer. [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006665)
-<br> Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang, Dingyi Zeng, Wenyu Chen, Malu Zhang, Yang Yang
-
-
-
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural--Networks</div><img src='images/nn25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+ESTSformer: Efficient Spatio-Temporal Spiking Transformer. ![](https://img.shields.io/badge/IF:6.3-darkblue)
+  
+Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang, Dingyi Zeng, Wenyu Chen, Malu Zhang, Yang Yang
+- [![](https://img.shields.io/badge/Paper-fff?logo=readthedocs&logoColor=000)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006665)
+</div>
+</div>
 
 
 
