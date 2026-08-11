@@ -176,14 +176,11 @@ Chengzhuo Lu, Huilin Du, **Wenjie Wei**<sup>&#9993;</sup>, Qian Sun, Yuchen Wang
 
 # 🏆 Honors and Awards
 - 2025.12: Outstanding Graduate, University of Electronic Science and Technology of China.
+- 2025.12: Academic Rising Star, University of Electronic Science and Technology of China.
 - 2025.11: Scholarship of the 14th Research Institute of China Electronics Technology Group Corporation.
-- 2025.10: Outstanding Postgraduate Student, University of Electronic Science and Technology of China.
 - 2025.08: Best Dataset & Benchmark Award, ĲCAI2025-SpikeCV Competition: Infinity-WUJI. (Only 1 Team Worldwide)
-- 2022.11: Outstanding Student Leader, University of Electronic Science and Technology of China.
 - 2021.09: First-Class Scholarship, University of Electronic Science and Technology of China. 
 - 2021.06: Outstanding Graduate, Zhengzhou University.
-- 2019, 2020.11: National Encouragement Scholarship, Zhengzhou University.
-- 2018.11: Outstanding Contributor in Social Service, Zhengzhou University.
 
 # 📖 Educations
 - 2026.07 - now, Research Fellow in the College of Design and Engineering, National University of Singapore. (Supervisor: Haizhou Li)
