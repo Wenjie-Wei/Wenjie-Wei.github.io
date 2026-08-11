@@ -27,7 +27,7 @@ Hello! This is Wenjie Wei😀. I am currently a Research Fellow at the National 
 ✉️ Contact: wjwei@nus.edu.sg. Please feel free to reach out to me.
 
 # 💬 Academic Services
-- Journal Reviewer: Expert Systems With Applications, Neural Networks, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Neurocomputing, Frontiers in Neuroscience, etc.
+- Journal Reviewer: IEEE TPAMI, IEEE TETCI, IEEE TCDS, IEEE TBioCAS, Expert Systems With Applications, Neural Networks, Neurocomputing, Frontiers in Neuroscience, etc.
 - Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, AAAI, ĲCAI, etc.
 - Invited Oral Presentation titled "Event-Driven Learning for Spiking Neural Networks", at the 11th IEEE International Conference on CIS-RAM Young Scholars Workshop.
 - Core Contributor of the WeChat Official Account named "Progress in Brain-Inspired Intelligence", regularly shares the latest developments in the Brain-Inspired Intelligence field.
